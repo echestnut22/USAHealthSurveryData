@@ -8,9 +8,7 @@ import pandas as pd
 import numpy as np
 import dash_bootstrap_components as dbc
 
-df = pd.read_csv('C:/Users/ericc/Desktop/DataStuff/Obesity/Nutrition_PhysicalActivity_Obesity_Cleaned.csv')
-
-
+df = pd.read_csv('USAHealthSurveryData/Nutrition_PhysicalActivity_Obesity_Cleaned.csv')
 
 
 #Function for formula to find weighted percent
